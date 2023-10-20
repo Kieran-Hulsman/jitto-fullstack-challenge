@@ -4,8 +4,8 @@ Note: when I initially read the challenge description, I thought it was for deal
 Throughout the implementation of my API, I reffered to the data as 'users' instead of 'items' but the underlying functionality is the same.
 
 ## Accessing the API
-API Key: The API is secured with an API key, which is included in my email submission
-Base URL: The base url is also included in my email submission
+- API Key: The API is secured with an API key, which is included in my email submission
+- Base URL: The base url is also included in my email submission
 
 ## API endpoints
 
