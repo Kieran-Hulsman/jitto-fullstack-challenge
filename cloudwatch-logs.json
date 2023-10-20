@@ -1,0 +1,240 @@
+[
+    {
+        "@timestamp": "2023-10-20 22:15:36.136",
+        "@message": {
+            "requestId": "9fcee216-583c-474f-962f-f4f8321a7a28",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:15:36 +0000",
+            "httpMethod": "GET",
+            "resourcePath": "/get-all-users",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "456"
+        },
+        "@logStream": "6874ec18d404281ead9f2b8e48046a35",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:15:28.284",
+        "@message": {
+            "requestId": "48c47d3c-488e-44d4-a9ee-4bcc912a23e9",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:15:28 +0000",
+            "httpMethod": "POST",
+            "resourcePath": "/new-user",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "71"
+        },
+        "@logStream": "76cab01769f151c2195ba0a640e8ec85",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:14:03.953",
+        "@message": {
+            "requestId": "0225e156-3d3a-415b-9cb2-32c6c1c9ab86",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:14:03 +0000",
+            "httpMethod": "GET",
+            "resourcePath": "/get-all-users",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "413"
+        },
+        "@logStream": "7656c675c3586f1b5bf1fcaeab66a7d1",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:13:59.796",
+        "@message": {
+            "requestId": "e3582d25-c534-453c-8170-527906f488c1",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:13:59 +0000",
+            "httpMethod": "POST",
+            "resourcePath": "/new-user",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "71"
+        },
+        "@logStream": "f7533692537bbc613ba4ffda57e0d5d7",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:13:41.196",
+        "@message": {
+            "requestId": "9213cc88-2233-4a9d-bee7-d52299c475a3",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:13:41 +0000",
+            "httpMethod": "POST",
+            "resourcePath": "/new-user",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "71"
+        },
+        "@logStream": "d6b5287034a23d37dc5bd1f3f119df5b",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:13:07.903",
+        "@message": {
+            "requestId": "b78e66bd-2c0d-46b6-9628-2dcb42960513",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:13:07 +0000",
+            "httpMethod": "GET",
+            "resourcePath": "/get-user",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "111"
+        },
+        "@logStream": "515b432496b9751cc632e80aa2880d00",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:12:53.472",
+        "@message": {
+            "requestId": "3bb90189-0220-4ee7-8a4c-d6b37a5ee4f8",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:12:53 +0000",
+            "httpMethod": "POST",
+            "resourcePath": "/new-user",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "71"
+        },
+        "@logStream": "e2326acbfcbb9c0e00a016c9c6e39e86",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:11:30.403",
+        "@message": {
+            "requestId": "ae75ee9c-9112-4089-a58f-8f98e7554ef3",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:11:30 +0000",
+            "httpMethod": "GET",
+            "resourcePath": "/get-all-users",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "895"
+        },
+        "@logStream": "91d21a4c0fac6463772b2078c70177e4",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:11:01.785",
+        "@message": {
+            "requestId": "0eb0805b-512c-477b-ba35-830942d7d806",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:11:01 +0000",
+            "httpMethod": "GET",
+            "resourcePath": "/get-all-users",
+            "status": "429",
+            "protocol": "HTTP/1.1",
+            "responseLength": "28"
+        },
+        "@logStream": "ef0c2db9d96dd24b21d05ffa4109fd74",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:10:58.930",
+        "@message": {
+            "requestId": "c205b919-b860-4027-81ac-dfce97f678fe",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:10:58 +0000",
+            "httpMethod": "GET",
+            "resourcePath": "/get-all-users",
+            "status": "429",
+            "protocol": "HTTP/1.1",
+            "responseLength": "28"
+        },
+        "@logStream": "221886beed4c02fda4bad100314d892f",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:10:33.930",
+        "@message": {
+            "requestId": "764f223a-8781-4cf9-a910-2b0ef0694e69",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:10:33 +0000",
+            "httpMethod": "GET",
+            "resourcePath": "/get-all-users",
+            "status": "429",
+            "protocol": "HTTP/1.1",
+            "responseLength": "28"
+        },
+        "@logStream": "ed3c93d9dc62fc6d4df8636ce68d0ef9",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:05:04.998",
+        "@message": {
+            "requestId": "70e21bb1-9913-4757-a469-bdc696b86d07",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:05:04 +0000",
+            "httpMethod": "GET",
+            "resourcePath": "/get-all-users",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "895"
+        },
+        "@logStream": "3add09229de69104d3a525ecd2003a5a",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 22:00:02.289",
+        "@message": {
+            "requestId": "86952170-de7e-4999-a142-829264adaea2",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:22:00:02 +0000",
+            "httpMethod": "GET",
+            "resourcePath": "/get-all-users",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "895"
+        },
+        "@logStream": "b8047a6f55edea7a22084c6f782766e7",
+        "@log": "608349879994:/jitto-api-logs"
+    },
+    {
+        "@timestamp": "2023-10-20 21:53:39.284",
+        "@message": {
+            "requestId": "231c8f49-ff09-4c03-8619-1157f50d50c5",
+            "ip": "54.86.50.139",
+            "caller": "-",
+            "user": "-",
+            "requestTime": "20/Oct/2023:21:53:39 +0000",
+            "httpMethod": "POST",
+            "resourcePath": "/new-user",
+            "status": "200",
+            "protocol": "HTTP/1.1",
+            "responseLength": "71"
+        },
+        "@logStream": "f7533692537bbc613ba4ffda57e0d5d7",
+        "@log": "608349879994:/jitto-api-logs"
+    }
+]
